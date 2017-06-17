@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="96"
    height="96"
-   id="svg2408"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="folder-dropbox.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview78"
-     showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="48"
-     inkscape:cy="48"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2408" />
+   id="svg2408">
   <defs
      id="defs2410">
     <linearGradient
@@ -309,81 +286,6 @@
        id="linearGradient3916"
        xlink:href="#linearGradient3737"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       id="filter3055"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3057"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3059"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3061"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3063"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3065"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3067"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3069"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3071"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3073"
-         type="saturate"
-         values="0" />
-    </filter>
   </defs>
   <metadata
      id="metadata2413">
@@ -408,7 +310,7 @@
   </g>
   <g
      id="layer4"
-     style="display:inline;filter:url(#filter3071)">
+     style="display:inline">
     <path
        d="M 14.125,4 C 9.6910704,4 6,7.568413 6,12 l 0,2.15625 C 3.6235961,15.958367 2,18.759045 2,22 l 0,63 c 0,5.503629 4.496371,10 10,10 l 72,0 c 5.503629,0 10,-4.496371 10,-10 L 94,22 C 94,18.516601 92.146607,15.546894 89.46875,13.78125 88.481551,10.491738 85.526024,8 81.875,8 l -39.5,0 C 40.972352,6.645177 39.835329,5.4903784 38.6875,4.84375 37.192287,4.0014231 35.756649,4.0295412 34.875,4 a 0.92780092,0.92780092 0 0 0 -0.03125,0 c -0.0012,-1.73e-5 -0.03009,-1.73e-5 -0.03125,0 L 34.78125,4 14.125,4 z"
        id="path3984"
@@ -434,7 +336,7 @@
   </g>
   <g
      id="layer3"
-     style="display:inline;filter:url(#filter3067)">
+     style="display:inline">
     <rect
        width="75"
        height="62.678574"
@@ -457,7 +359,7 @@
   </g>
   <g
      id="layer1"
-     style="display:inline;filter:url(#filter3063)">
+     style="display:inline">
     <rect
        width="84"
        height="76"
@@ -480,7 +382,7 @@
   </g>
   <g
      id="layer5"
-     style="display:inline;filter:url(#filter3059)">
+     style="display:inline">
     <path
        d="m 15.96875,22.53125 c -2.845903,0.0043 -5.433244,2.591597 -5.4375,5.4375 l 0,48.0625 c 0.0043,2.845903 2.591597,5.433244 5.4375,5.4375 l 64.0625,0 c 2.845903,-0.0043 5.433244,-2.591597 5.4375,-5.4375 l 0,-48.0625 c -0.0043,-2.845903 -2.591597,-5.433244 -5.4375,-5.4375 z"
        inkscape:connector-curvature="0"
@@ -489,8 +391,7 @@
        style="opacity:0.15;fill:url(#linearGradient3123);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3870)" />
   </g>
   <g
-     id="layer6"
-     style="filter:url(#filter3055)">
+     id="layer6">
     <path
        d="M 38.34375,28 A 2.0041028,2.0041028 0 0 0 37.5,28.28125 l -14.40625,8.75 a 2.0041028,2.0041028 0 0 0 -0.25,3.25 l 7.84375,6.625 -7.96875,6.4375 a 2.0041028,2.0041028 0 0 0 0.15625,3.25 l 9.1875,5.875 A 2.0041028,2.0041028 0 0 0 32,62.9375 l 0,1.25 a 2.0041028,2.0041028 0 0 0 0.84375,1.65625 l 14.0625,9.8125 a 2.0041028,2.0041028 0 0 0 2.28125,0 l 14.25,-9.8125 a 2.0041028,2.0041028 0 0 0 0.875,-1.65625 l 0,-1.40625 a 2.0041028,2.0041028 0 0 0 -0.0625,-0.5 l 8.875,-5.6875 a 2.0041028,2.0041028 0 0 0 0.15625,-3.25 L 65.4375,47 73.28125,40.3125 A 2.0041028,2.0041028 0 0 0 73,37.0625 L 58.625,28.34375 a 2.0041028,2.0041028 0 0 0 -2.34375,0.1875 l -8.1875,7.0625 -8.25,-7.125 A 2.0041028,2.0041028 0 0 0 38.34375,28 z m 0.1875,2 9.5625,8.25 9.5,-8.1875 14.375,8.71875 -9.6875,8.25 9.75,7.875 L 57.75,64.03125 48,55.75 38.25,64.03125 23.96875,54.90625 33.78125,47 48,55.75 62.1875,47.03125 48,38.28125 33.875,47 24.125,38.75 38.53125,30 z M 48,40.65625 58.34375,47.03125 48,53.375 37.6875,47.03125 48,40.65625 z m 0,16.75 9.75,8.28125 4.5625,-2.90625 0,1.40625 L 48.0625,74 34,64.1875 l 0,-1.25 4.25,2.75 9.75,-8.28125 z"
        inkscape:connector-curvature="0"

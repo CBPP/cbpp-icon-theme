@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="96"
    height="96"
-   id="svg2408"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="folder-open.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview74"
-     showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="48"
-     inkscape:cy="48"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2408" />
+   id="svg2408">
   <defs
      id="defs2410">
     <linearGradient
@@ -282,96 +259,6 @@
        id="linearGradient3938"
        xlink:href="#linearGradient3737"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       id="filter3051"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3053"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3055"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3057"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3059"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3061"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3063"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3065"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3067"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3069"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3071"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3073"
-         type="saturate"
-         values="0" />
-    </filter>
   </defs>
   <metadata
      id="metadata2413">
@@ -396,7 +283,7 @@
   </g>
   <g
      id="layer4"
-     style="display:inline;filter:url(#filter3051)">
+     style="display:inline">
     <path
        d="m 14.125,3.96875 c -5.0948606,-0.15037 -8.7948043,4.7479546 -8.15625,9.5625 0.00835,0.06297 -0.00985,0.124564 0,0.1875 l 0,10.5625 c -3.3296115,2.397374 -4.3234927,6.548623 -4,10.25 5.58e-5,0.03124 -5.48e-5,0.06251 0,0.09375 C 1.9987471,51.714428 1.8926539,68.8033 2,85.90625 A 1.1340355,1.1340355 0 0 0 2,86 c 0.4312091,5.889535 6.2451069,9.69724 11.78125,9.03125 0.05233,-0.0063 0.103971,0.0071 0.15625,0 C 37.593658,95.001176 61.240796,95.107514 84.90625,95 A 1.1340355,1.1340355 0 0 0 85,95 c 5.889535,-0.431209 9.69724,-6.245106 9.03125,-11.78125 -0.0063,-0.05233 0.0071,-0.103971 0,-0.15625 -0.0125,-17.170933 0.01294,-34.324809 -0.03125,-51.5 -1.07e-4,-0.04169 1.08e-4,-0.08331 0,-0.125 l -0.03125,0 c 0.178319,-2.041377 -0.825624,-3.629058 -1.8125,-4.84375 -0.997986,-1.228366 -1.89337,-2.240083 -2.125,-3.0625 -0.107937,-2.740464 0.28391,-5.74774 -0.1875,-8.78125 -0.0032,-0.0209 0.0033,-0.0416 0,-0.0625 l -0.03125,0 C 89.523983,12.370017 88.163934,10.499465 86.375,9.34375 84.611204,8.2042748 82.445186,7.7081739 80.34375,7.96875 c -0.05219,0.00647 -0.104143,-0.00743 -0.15625,0 l -37.84375,0 c -2.093676,-2.2394687 -4.843179,-4.289972 -8.3125,-4 l -0.09375,0 -19.78125,0 -0.03125,0 z"
        id="path4099"
@@ -423,7 +310,7 @@
   </g>
   <g
      id="layer3"
-     style="display:inline;filter:url(#filter3055)">
+     style="display:inline">
     <rect
        width="75"
        height="62.678574"
@@ -446,7 +333,7 @@
   </g>
   <g
      id="layer8"
-     style="display:inline;filter:url(#filter3059)">
+     style="display:inline">
     <rect
        width="76.000008"
        height="32"
@@ -479,7 +366,7 @@
   </g>
   <g
      id="layer1"
-     style="display:inline;filter:url(#filter3063)">
+     style="display:inline">
     <rect
        width="84"
        height="66.000031"
@@ -502,7 +389,7 @@
   </g>
   <g
      id="layer5"
-     style="display:inline;filter:url(#filter3067)">
+     style="display:inline">
     <path
        d="m 15.96875,28.53125 c -2.845903,0.0043 -5.433244,2.591597 -5.4375,5.4375 l 0,42.0625 c 0.0043,2.845903 2.591597,5.433244 5.4375,5.4375 l 64.0625,0 c 2.845903,-0.0043 5.433244,-2.591597 5.4375,-5.4375 l 0,-42.0625 c -0.0043,-2.845903 -2.591597,-5.433244 -5.4375,-5.4375 z"
        inkscape:connector-curvature="0"
@@ -511,6 +398,5 @@
        style="opacity:0.15;fill:url(#linearGradient3123);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3870)" />
   </g>
   <g
-     id="layer6"
-     style="filter:url(#filter3071)" />
+     id="layer6" />
 </svg>

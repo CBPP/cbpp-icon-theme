@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="96"
    height="96"
-   id="svg2408"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="folder-videos.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview78"
-     showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="48"
-     inkscape:cy="48"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2408" />
+   id="svg2408">
   <defs
      id="defs2410">
     <linearGradient
@@ -309,81 +286,6 @@
        id="linearGradient3938"
        xlink:href="#linearGradient3737"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       id="filter3055"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3057"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3059"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3061"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3063"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3065"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3067"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3069"
-         type="saturate"
-         values="0" />
-    </filter>
-    <filter
-       id="filter3071"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3073"
-         type="saturate"
-         values="0" />
-    </filter>
   </defs>
   <metadata
      id="metadata2413">
@@ -408,7 +310,7 @@
   </g>
   <g
      id="layer4"
-     style="display:inline;filter:url(#filter3055)">
+     style="display:inline">
     <path
        d="M 14.125,4 C 9.6910704,4 6,7.568413 6,12 l 0,2.15625 C 3.6235961,15.958367 2,18.759045 2,22 l 0,63 c 0,5.503629 4.496371,10 10,10 l 72,0 c 5.503629,0 10,-4.496371 10,-10 L 94,22 C 94,18.516601 92.146607,15.546894 89.46875,13.78125 88.481551,10.491738 85.526024,8 81.875,8 l -39.5,0 C 40.972352,6.645177 39.835329,5.4903784 38.6875,4.84375 37.192287,4.0014231 35.756649,4.0295412 34.875,4 a 0.92780092,0.92780092 0 0 0 -0.03125,0 c -0.0012,-1.73e-5 -0.03009,-1.73e-5 -0.03125,0 L 34.78125,4 14.125,4 z"
        id="path3984"
@@ -434,7 +336,7 @@
   </g>
   <g
      id="layer3"
-     style="display:inline;filter:url(#filter3059)">
+     style="display:inline">
     <rect
        width="75"
        height="62.678574"
@@ -457,7 +359,7 @@
   </g>
   <g
      id="layer1"
-     style="display:inline;filter:url(#filter3063)">
+     style="display:inline">
     <rect
        width="84"
        height="76"
@@ -480,7 +382,7 @@
   </g>
   <g
      id="layer5"
-     style="display:inline;filter:url(#filter3067)">
+     style="display:inline">
     <path
        d="m 15.96875,22.53125 c -2.845903,0.0043 -5.433244,2.591597 -5.4375,5.4375 l 0,48.0625 c 0.0043,2.845903 2.591597,5.433244 5.4375,5.4375 l 64.0625,0 c 2.845903,-0.0043 5.433244,-2.591597 5.4375,-5.4375 l 0,-48.0625 c -0.0043,-2.845903 -2.591597,-5.433244 -5.4375,-5.4375 z"
        inkscape:connector-curvature="0"
@@ -489,8 +391,7 @@
        style="opacity:0.15;fill:url(#linearGradient3123);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3870)" />
   </g>
   <g
-     id="layer6"
-     style="filter:url(#filter3071)">
+     id="layer6">
     <path
        d="m 38,28.03125 c -7.687478,0 -13.96875,6.281273 -13.96875,13.96875 0,4.695004 2.434473,8.753495 6,11.28125 -1.638144,0.51195 -3,1.842285 -3,3.71875 0,1.876465 1.361856,3.2068 3,3.71875 l 0,4.28125 c 0,2.714729 2.25402,4.96875 4.96875,4.96875 l 0.59375,0 L 34.8125,71 c -0.852406,1.106895 -0.59842,2.691288 0.0625,3.5625 0.66092,0.871212 1.675478,1.413497 2.875,1.40625 l 9,0 9.03125,0 c 1.199512,0.0072 2.21408,-0.535041 2.875,-1.40625 0.66092,-0.871209 0.914903,-2.455608 0.0625,-3.5625 l -0.78125,-1.03125 0.0625,0 1,0 c 2.580214,0 4.66753,-2.061766 4.875,-4.59375 l 2.375,1.65625 0.03125,0 0.15625,0.125 0.03125,-0.0625 c 1.130336,0.839102 2.944902,0.883043 4,-0.0625 1.111058,-0.995624 1.466702,-2.266935 1.46875,-3.625 l 0,-4.9375 0,-3.9375 c 0.0085,-1.135309 -0.318312,-2.145948 -0.9375,-3 -0.619188,-0.854052 -1.785073,-1.723604 -3.21875,-1.4375 A 1.9616722,1.9616722 0 0 0 67.75,50.125 c -0.509947,0.104161 -0.908627,0.364834 -1.28125,0.65625 L 66.4375,50.75 66.28125,50.84375 c -0.01024,0.009 -0.02114,0.0222 -0.03125,0.03125 l -2.40625,1.6875 c -0.02077,-0.231147 -0.135927,-0.431619 -0.1875,-0.65625 2.5976,-2.522676 4.3125,-5.991639 4.3125,-9.90625 0,-7.687477 -6.281273,-13.96875 -13.96875,-13.96875 -3.015061,0 -5.713389,1.11321 -8,2.75 -2.286611,-1.63679 -4.984939,-2.75 -8,-2.75 z M 38,30 c 3.078097,0 5.876514,1.153599 8,3.0625 C 48.123486,31.153599 50.921903,30 54,30 c 6.627416,0 12,5.372584 12,12 0,3.780028 -1.769036,7.11566 -4.5,9.3125 C 61.82284,51.791152 62,52.37675 62,53 l 0,2.96875 0.40625,0 5.15625,-3.625 c 0.182176,-0.163052 0.38519,-0.2699 0.59375,-0.3125 0.908906,-0.181381 1.82309,1.079559 1.8125,2.5 l 0,3.9375 0,4.9375 c -0.0013,0.867332 -0.328089,1.722167 -0.8125,2.15625 -0.484411,0.434113 -1.108223,0.431077 -1.59375,0 L 62.40625,61.96875 62,61.96875 62,65 c 0,1.662 -1.338,3 -3,3 l -1,0 -4.03125,0 3.1875,4.1875 c 0.562048,0.72985 -0.264363,1.8192 -1.375,1.8125 l -9.03125,0 -9,0 c -1.110637,0.0067 -1.937048,-1.08265 -1.375,-1.8125 L 39.5625,68 36,68 35,68 c -1.662001,0 -3,-1.338 -3,-3 l 0,-6.03125 C 31.836963,58.9953 31.673125,59 31.5,59 30.115,59 29,58.108 29,57 c 0,-1.108 1.115,-2 2.5,-2 0.173125,0 0.336963,0.0047 0.5,0.03125 L 32,53 c 0,-0.20775 0.02267,-0.398105 0.0625,-0.59375 C 28.45369,50.336505 26,46.456718 26,42 26,35.372584 31.372583,30 38,30 z m 0,6 c -3.313709,0 -6,2.686291 -6,6 0,3.313709 2.686291,6 6,6 1.863961,0 3.524512,-0.854017 4.625,-2.1875 0.427968,-0.518577 0.763242,-1.107738 1,-1.75 0.03375,-0.09154 0.06442,-0.18767 0.09375,-0.28125 0.07391,-0.23764 0.14335,-0.46946 0.1875,-0.71875 0.0054,-0.03015 -0.005,-0.06344 0,-0.09375 C 43.95811,42.652916 44,42.330704 44,42 c 0,-0.330704 -0.04189,-0.652916 -0.09375,-0.96875 -0.0049,-0.03052 0.0054,-0.06339 0,-0.09375 -0.0095,-0.05266 -0.02039,-0.10408 -0.03125,-0.15625 -0.05994,-0.292939 -0.149056,-0.56806 -0.25,-0.84375 -0.236758,-0.642262 -0.572032,-1.231423 -1,-1.75 C 41.524512,36.854017 39.863961,36 38,36 z m 16,0 c -1.863961,0 -3.524512,0.854017 -4.625,2.1875 -0.427968,0.518577 -0.763242,1.107738 -1,1.75 -0.111856,0.305494 -0.21996,0.611051 -0.28125,0.9375 -0.0095,0.04992 0.0083,0.1059 0,0.15625 C 48.04189,41.347084 48,41.669296 48,42 c 0,0.330704 0.04189,0.652916 0.09375,0.96875 0.0083,0.05035 -0.0095,0.10633 0,0.15625 0.06129,0.326449 0.169394,0.632006 0.28125,0.9375 0.236758,0.642262 0.572032,1.231423 1,1.75 C 50.475488,47.145983 52.136039,48 54,48 c 3.313709,0 6,-2.686291 6,-6 0,-3.313709 -2.686291,-6 -6,-6 z m -16,2 c 2.209138,0 4,1.790862 4,4 0,2.209138 -1.790862,4 -4,4 -2.209138,0 -4,-1.790862 -4,-4 0,-2.209138 1.790862,-4 4,-4 z m 16,0 c 2.209138,0 4,1.790862 4,4 0,2.209138 -1.790862,4 -4,4 -2.209138,0 -4,-1.790862 -4,-4 0,-2.209138 1.790862,-4 4,-4 z"
        inkscape:connector-curvature="0"
