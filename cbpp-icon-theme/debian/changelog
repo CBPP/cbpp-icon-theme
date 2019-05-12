@@ -1,3 +1,9 @@
+cbpp-icon-theme (10.0) unstable; urgency=low
+
+  * Killed some extras, dupes, and deprecated icons
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Sat, 11 May 2019 22:11:30 -0800
+
 cbpp-icon-theme (9.0) unstable; urgency=low
 
   * Nine-ify
