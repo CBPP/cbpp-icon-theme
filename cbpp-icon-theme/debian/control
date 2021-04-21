@@ -2,7 +2,7 @@ Source: cbpp-icon-theme
 Section: x11
 Priority: optional
 Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
-Build-Depends: debhelper (>= 11)
+Build-Depends: debhelper (>= 13)
 Standards-Version: 3.9.5
 Homepage: https://crunchbangplusplus.org
 
