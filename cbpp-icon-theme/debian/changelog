@@ -1,3 +1,9 @@
+cbpp-icon-theme (12.0) unstable; urgency=low
+
+  * Rebased on bookworm faenza dist
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 14 May 2023 17:53:30 -0800
+
 cbpp-icon-theme (11.0) unstable; urgency=low
 
   * Rebased on bullseye faenza dist
