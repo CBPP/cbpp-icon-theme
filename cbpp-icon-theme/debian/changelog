@@ -1,6 +1,6 @@
 cbpp-icon-theme (13.0) unstable; urgency=low
 
-  * Rebased on trixie faenza dist
+  * Patched in the few changes from trixie faenza
 
  -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 08 Jun 2025 17:53:30 -0800
 
